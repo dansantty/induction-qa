@@ -1,0 +1,10 @@
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\bin\Debug\netcoreapp3.1\InductionQA.deps.json
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\bin\Debug\netcoreapp3.1\InductionQA.dll
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\bin\Debug\netcoreapp3.1\InductionQA.pdb
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\obj\Debug\netcoreapp3.1\InductionQA.csproj.AssemblyReference.cache
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\obj\Debug\netcoreapp3.1\InductionQA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\obj\Debug\netcoreapp3.1\InductionQA.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\obj\Debug\netcoreapp3.1\InductionQA.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\obj\Debug\netcoreapp3.1\InductionQA.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\obj\Debug\netcoreapp3.1\InductionQA.dll
+C:\Users\Danilo\source\repos\InductionQA\InductionQA\obj\Debug\netcoreapp3.1\InductionQA.pdb

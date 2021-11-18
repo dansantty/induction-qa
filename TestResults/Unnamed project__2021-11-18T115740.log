@@ -1,0 +1,465 @@
+﻿2021-11-18T11:57:40.3137854-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-11-18T11:57:40.3140892-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2021-11-18T11:57:40.3140937-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-11-18T11:57:40.3152782-03:00;VSTestExecutionThread;Info;Current UserName: 'Danilo', MachineName: 'DANILO'
+2021-11-18T11:57:40.3463768-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.Specs.dll
+2021-11-18T11:57:40.3465685-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Danilo\source\repos\InductionQA\TestResults" (default)
+2021-11-18T11:57:40.3466276-03:00;VSTestExecutionThread;Info;Profile: 
+2021-11-18T11:57:40.4056869-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Danilo\source\repos\InductionQA\TestResults\Unnamed project__2021-11-18T115740.log
+2021-11-18T11:57:40.4120508-03:00;Thread#12;Info;Checking activation
+2021-11-18T11:57:40.5503758-03:00;Thread#12;Info;Activated.
+2021-11-18T11:57:40.5506500-03:00;Thread#12;Info;Activation check completed
+2021-11-18T11:57:40.5507715-03:00;Thread#12;Info;Starting test run
+2021-11-18T11:57:40.6601935-03:00;Thread#12;Info;Discovering target: Default
+2021-11-18T11:57:40.6605207-03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.Specs.dll
+2021-11-18T11:57:40.7644010-03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.Specs.dll
+2021-11-18T11:57:40.7672244-03:00:Test Suite Dump
+2021-11-18T11:57:40.7705367-03:00:#0: Unnamed project/ - 
+2021-11-18T11:57:40.7705675-03:00:#1: Default - 
+2021-11-18T11:57:40.7705712-03:00:#2: InductionQA.Specs - 
+2021-11-18T11:57:40.7705741-03:00:#3: Induction QA Automation - 
+2021-11-18T11:57:40.7721781-03:00:#4: Buying ticket air for London, Variant 0 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+0
+2021-11-18T11:57:40.7722478-03:00:#5: Buying ticket air for London, Variant 1 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+1
+2021-11-18T11:57:40.7722622-03:00:#6: Buying ticket air for London, Variant 2 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+2
+2021-11-18T11:57:40.7722819-03:00:#7: Buying ticket air for London, Variant 3 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+3
+2021-11-18T11:57:40.7722926-03:00:#8: Buying ticket air for London, Variant 4 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+4
+2021-11-18T11:57:40.7723033-03:00:#9: Buying ticket air for London, Variant 5 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+5
+2021-11-18T11:57:40.7723283-03:00:#10: Buying ticket air for London, Variant 6 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+6
+2021-11-18T11:57:40.7723394-03:00:#11: Buying ticket air for London, Variant 7 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+7
+2021-11-18T11:57:40.7723497-03:00:#12: Buying ticket air for London, Variant 8 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+8
+2021-11-18T11:57:40.7723681-03:00:#13: Buying ticket air for London, Variant 9 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+9
+2021-11-18T11:57:40.7723788-03:00:#14: Buying ticket air for London, Variant 10 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+10
+2021-11-18T11:57:40.7723891-03:00:#15: Buying ticket air for London, Variant 11 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+11
+2021-11-18T11:57:40.7724067-03:00:#16: Buying ticket air for London, Variant 12 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+12
+2021-11-18T11:57:40.7724174-03:00:#17: Buying ticket air for London, Variant 13 - TestAssembly:InductionQA.Specs/Feature:Induction+QA+Automation/Scenario:Buying+ticket+air+for+London%2c+Variant+13
+2021-11-18T11:57:40.7724646-03:00:End: Test Suite Dump
+2021-11-18T11:57:40.7988596-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:40.8008655-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-11-18T11:57:40.8009234-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-11-18T11:57:40.8057884-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:40.8058028-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:40.8058048-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:40.8058081-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-11-18T11:57:40.8065002-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-11-18T11:57:40.8078543-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-11-18T11:57:40.8102896-03:00:Thread #0: creating new test thread executor for InductionQA.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-11-18T11:57:40.8128818-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-11-18T11:57:40.8130736-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-11-18T11:57:40.8158378-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-11-18T11:57:40.8181036-03:00:starting Out Of Process Executor
+2021-11-18T11:57:40.8208847-03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-18T11:57:40.8247150-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-11-18T11:57:40.8247433-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-11-18T11:57:40.8260296-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:40.8265173-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-11-18T11:57:40.8266778-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-11-18T11:57:40.8267275-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:40.8270100-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-11-18T11:57:40.8277613-03:00:Tfm: netcoreapp3.1
+2021-11-18T11:57:40.8277757-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-11-18T11:57:40.8277782-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-11-18T11:57:40.8278997-03:00:[AssemblyCache] Found file 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-11-18T11:57:40.8296564-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-11-18T11:57:40.8304048-03:00:Starting callback TCP Rpc server
+2021-11-18T11:57:40.8635195-03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-11-18T11:57:40.8636825-03:00:Started callback TCP Rpc server on port 32768
+2021-11-18T11:57:40.8637129-03:00:Starting logger TCP Rpc server
+2021-11-18T11:57:40.8720499-03:00:Asynchronously starting background TCP Rpc Server on port 32771
+2021-11-18T11:57:40.8721025-03:00:Started logger TCP Rpc server on port 32771
+2021-11-18T11:57:40.9661921-03:00:Executing test executor at 'dotnet' 'exec "C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 6704 --uniqueId "2021-11-18T115740" --outputFolder "C:\Users\Danilo\source\repos\InductionQA\TestResults" --callbackPort 32768 --loggerPort 32771' in 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:40.9755748-03:00:Executor with PID 2840 has been started successfully.
+2021-11-18T11:57:40.9800251-03:00:Out of Process Executor 2840 started
+2021-11-18T11:57:40.9800415-03:00:Waiting for endpoint
+2021-11-18T11:57:41.3837037-03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-18T11:57:41.3837246-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-11-18T11:57:41.3837390-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-11-18T11:57:41.3837456-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:41.3837484-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-11-18T11:57:41.3838219-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-11-18T11:57:41.3838638-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:41.3838761-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-11-18T11:57:41.3839110-03:00:Tfm: netcoreapp3.1
+2021-11-18T11:57:41.3839164-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-11-18T11:57:41.3839192-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-11-18T11:57:41.3840030-03:00:[AssemblyCache] Found file 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-11-18T11:57:41.3847223-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-11-18T11:57:42.2440375-03:00:Remote executor port received: 32772
+2021-11-18T11:57:42.2453287-03:00:Creating executor TCP client on port 32772
+2021-11-18T11:57:42.2465550-03:00:Created executor TCP client on port 32772
+2021-11-18T11:57:42.2465719-03:00:Connecting to remote executor TCP server
+2021-11-18T11:57:42.2484583-03:00:Connected remote executor TCP server
+2021-11-18T11:57:42.2489440-03:00:trying to connect to Out of Process Executor the 1 attempt
+2021-11-18T11:57:42.2489563-03:00:Connection to Out of Process Executor established in the 1 attempt
+2021-11-18T11:57:42.4812933-03:00:2021-11-18T11:57:42.4777540-03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.Specs.dll on test thread #0
+2021-11-18T11:57:42.4913238-03:00:Endpoint 2840 started
+2021-11-18T11:57:42.5247227-03:00:2021-11-18T11:57:42.5241085-03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-11-18T11:57:42.6981026-03:00:2021-11-18T11:57:42.6970335-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-11-18T11:57:42.7019794-03:00:2021-11-18T11:57:42.7016165-03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-11-18T11:57:42.7060294-03:00:2021-11-18T11:57:42.7055960-03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Danilo\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-11-18T11:57:42.8501923-03:00:2021-11-18T11:57:42.8495860-03:00:Thread#0:T:-> Loading plugin C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.Specs.dll
+2021-11-18T11:57:42.8515854-03:00:2021-11-18T11:57:42.8512812-03:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-18T11:57:42.8520304-03:00:2021-11-18T11:57:42.8518063-03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-11-18T11:57:42.8535651-03:00:2021-11-18T11:57:42.8525345-03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\Danilo\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-11-18T11:57:42.9086511-03:00:2021-11-18T11:57:42.9082964-03:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-18T11:57:42.9091043-03:00:2021-11-18T11:57:42.9088925-03:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-11-18T11:57:42.9096688-03:00:2021-11-18T11:57:42.9094594-03:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\Danilo\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-11-18T11:57:42.9185370-03:00:2021-11-18T11:57:42.9181741-03:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in InductionQA.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-11-18T11:57:42.9192723-03:00:2021-11-18T11:57:42.9188704-03:00:Thread#0:T:-> Loading plugin C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-11-18T11:57:42.9297483-03:00:2021-11-18T11:57:42.9293768-03:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2021-11-18T11:57:42.9302192-03:00:2021-11-18T11:57:42.9300147-03:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-11-18T11:57:42.9309048-03:00:2021-11-18T11:57:42.9306306-03:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Danilo\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-11-18T11:57:42.9336694-03:00:2021-11-18T11:57:42.9333467-03:00:Thread#0:T:-> Loading plugin C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-11-18T11:57:42.9431276-03:00:2021-11-18T11:57:42.9427458-03:00:Thread#0:T:-> Using default config
+2021-11-18T11:57:42.9555270-03:00:2021-11-18T11:57:42.9550668-03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-11-18T11:57:42.9559511-03:00:2021-11-18T11:57:42.9557573-03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-11-18T11:57:42.9564839-03:00:2021-11-18T11:57:42.9562996-03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Danilo\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-11-18T11:57:42.9579430-03:00:2021-11-18T11:57:42.9576884-03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-11-18T11:57:42.9585013-03:00:2021-11-18T11:57:42.9582435-03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-11-18T11:57:42.9590605-03:00:2021-11-18T11:57:42.9588433-03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Danilo\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-11-18T11:57:42.9665518-03:00:2021-11-18T11:57:42.9661502-03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-18T11:57:42.9669676-03:00:2021-11-18T11:57:42.9668022-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-11-18T11:57:42.9676500-03:00:2021-11-18T11:57:42.9674451-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Danilo\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-11-18T11:57:43.0043082-03:00:2021-11-18T11:57:43.0038562-03:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-11-18T11:57:43.0048530-03:00:2021-11-18T11:57:43.0045907-03:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2021-11-18T11:57:43.0055439-03:00:2021-11-18T11:57:43.0052820-03:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\Danilo\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2021-11-18T11:57:43.0985753-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-11-18T11:57:43.1285070-03:00:2021-11-18T11:57:43.1276929-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:43.1475749-03:00:2021-11-18T11:57:43.1472079-03:00:Assembly resolving InductionQA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-11-18T11:57:43.1480614-03:00:2021-11-18T11:57:43.1478221-03:00:[AssemblyCache] Trying to resolve 'InductionQA' from .deps.json file
+2021-11-18T11:57:43.1492499-03:00:2021-11-18T11:57:43.1489736-03:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'InductionQA', found in dependency map, but unable to resolve a path in ['InductionQA.dll']
+2021-11-18T11:57:43.1677393-03:00:2021-11-18T11:57:43.1494527-03:00:[AssemblyCache] Could not resolve 'InductionQA' from .deps.json
+2021-11-18T11:57:43.1712244-03:00:2021-11-18T11:57:43.1702006-03:00:[AssemblyCache] Trying to resolve 'InductionQA' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:43.1778261-03:00:2021-11-18T11:57:43.1774233-03:00:[AssemblyCache] Trying to resolve 'InductionQA' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.dll'
+2021-11-18T11:57:43.1784238-03:00:2021-11-18T11:57:43.1781980-03:00:[AssemblyCache] Found file 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.dll' for assembly 'InductionQA'
+2021-11-18T11:57:43.1792622-03:00:2021-11-18T11:57:43.1790220-03:00:[AssemblyCache] Resolved 'InductionQA' to C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\InductionQA.dll
+2021-11-18T11:57:43.1852668-03:00:2021-11-18T11:57:43.1848670-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:43.1886464-03:00:2021-11-18T11:57:43.1882712-03:00:Thread#0:B:And be a day of 0
+2021-11-18T11:57:43.7403196-03:00:2021-11-18T11:57:43.1930792-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(0) (0,0s)
+2021-11-18T11:57:43.7450491-03:00:2021-11-18T11:57:43.7427870-03:00:Thread#0:B:And i iam vip customer 80
+2021-11-18T11:57:43.7513670-03:00:2021-11-18T11:57:43.7508654-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("iam", 80) (0,0s)
+2021-11-18T11:57:43.7528746-03:00:2021-11-18T11:57:43.7522862-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:43.7559011-03:00:2021-11-18T11:57:43.7554959-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:43.7568282-03:00:2021-11-18T11:57:43.7565268-03:00:Thread#0:B:Then i will pay 80
+2021-11-18T11:57:43.7587634-03:00:2021-11-18T11:57:43.7583598-03:00:Assembly resolving FluentAssertions, Version=6.2.0.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-11-18T11:57:43.7593383-03:00:2021-11-18T11:57:43.7590500-03:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-11-18T11:57:43.7601413-03:00:2021-11-18T11:57:43.7598662-03:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\Danilo\.nuget\packages\fluentassertions\6.2.0\lib\netcoreapp3.0\FluentAssertions.dll'
+2021-11-18T11:57:43.8861850-03:00:2021-11-18T11:57:43.8809555-03:00:Assembly resolving xunit.assert, Culture=neutral, PublicKeyToken=null
+2021-11-18T11:57:43.8941336-03:00:2021-11-18T11:57:43.8882091-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' from .deps.json file
+2021-11-18T11:57:43.8981148-03:00:2021-11-18T11:57:43.8959159-03:00:[AssemblyCache] Could not resolve 'xunit.assert' from .deps.json
+2021-11-18T11:57:43.8994010-03:00:2021-11-18T11:57:43.8988640-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:43.8999396-03:00:2021-11-18T11:57:43.8996847-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\xunit.assert.dll'
+2021-11-18T11:57:43.9004290-03:00:2021-11-18T11:57:43.9002365-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\xunit.assert.exe'
+2021-11-18T11:57:43.9008658-03:00:2021-11-18T11:57:43.9006766-03:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:43.9015925-03:00:2021-11-18T11:57:43.9013798-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-11-18T11:57:43.9024271-03:00:2021-11-18T11:57:43.9021755-03:00:Tfm: netcoreapp3.1
+2021-11-18T11:57:43.9029177-03:00:2021-11-18T11:57:43.9026747-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-11-18T11:57:43.9036522-03:00:2021-11-18T11:57:43.9032868-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.dll'
+2021-11-18T11:57:43.9043780-03:00:2021-11-18T11:57:43.9040841-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.exe'
+2021-11-18T11:57:43.9049323-03:00:2021-11-18T11:57:43.9046539-03:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-11-18T11:57:43.9142332-03:00:2021-11-18T11:57:43.9138904-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20'
+2021-11-18T11:57:43.9146972-03:00:2021-11-18T11:57:43.9144928-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20\xunit.assert.dll'
+2021-11-18T11:57:43.9151694-03:00:2021-11-18T11:57:43.9149645-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20\xunit.assert.exe'
+2021-11-18T11:57:43.9156337-03:00:2021-11-18T11:57:43.9154148-03:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20'
+2021-11-18T11:57:43.9164256-03:00:2021-11-18T11:57:43.9161312-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20'
+2021-11-18T11:57:43.9169174-03:00:2021-11-18T11:57:43.9166431-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20\xunit.assert.dll'
+2021-11-18T11:57:43.9173596-03:00:2021-11-18T11:57:43.9171818-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20\xunit.assert.exe'
+2021-11-18T11:57:43.9177800-03:00:2021-11-18T11:57:43.9175714-03:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20'
+2021-11-18T11:57:43.9183445-03:00:2021-11-18T11:57:43.9181778-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20'
+2021-11-18T11:57:43.9186585-03:00:2021-11-18T11:57:43.9185042-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20\xunit.assert.dll'
+2021-11-18T11:57:43.9191134-03:00:2021-11-18T11:57:43.9188790-03:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20\xunit.assert.exe'
+2021-11-18T11:57:43.9197116-03:00:2021-11-18T11:57:43.9194497-03:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20'
+2021-11-18T11:57:43.9454998-03:00:2021-11-18T11:57:43.9451401-03:00:Thread#0:T:error: Expected FinalPrice to be 80.0, but found 76.80000000000001. (0,2s)
+2021-11-18T11:57:43.9591799-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-11-18T11:57:43.9614659-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:43.9615567-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-11-18T11:57:43.9615636-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-11-18T11:57:43.9616765-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:43.9616856-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:43.9616876-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:43.9616901-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-11-18T11:57:43.9617381-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-11-18T11:57:43.9617931-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-11-18T11:57:44.0297753-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,9300805 seconds
+2021-11-18T11:57:44.0326844-03:00:Thread#0: Test #4/1 is started on thread #0
+2021-11-18T11:57:44.0340105-03:00:2021-11-18T11:57:44.0337083-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.0349359-03:00:2021-11-18T11:57:44.0346411-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.0354897-03:00:2021-11-18T11:57:44.0352376-03:00:Thread#0:B:And be a day of 0
+2021-11-18T11:57:44.0366047-03:00:2021-11-18T11:57:44.0360542-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(0) (0,0s)
+2021-11-18T11:57:44.0403945-03:00:2021-11-18T11:57:44.0374250-03:00:Thread#0:B:And i iam vip customer 80
+2021-11-18T11:57:44.0413067-03:00:2021-11-18T11:57:44.0410111-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("iam", 80) (0,0s)
+2021-11-18T11:57:44.0419505-03:00:2021-11-18T11:57:44.0417025-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.0425520-03:00:2021-11-18T11:57:44.0423159-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.0430590-03:00:2021-11-18T11:57:44.0428328-03:00:Thread#0:B:Then i will pay 80
+2021-11-18T11:57:44.0459960-03:00:2021-11-18T11:57:44.0456347-03:00:Thread#0:T:error: Expected FinalPrice to be 80.0, but found 76.80000000000001. (0,0s)
+2021-11-18T11:57:44.0491034-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:44.0493264-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-11-18T11:57:44.0493342-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-11-18T11:57:44.0493978-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:44.0494064-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:44.0494084-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:44.0495045-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-11-18T11:57:44.0495291-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-11-18T11:57:44.0495443-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-11-18T11:57:44.0532319-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0204465 seconds
+2021-11-18T11:57:44.0560281-03:00:Thread#0: Test #4/2 is started on thread #0
+2021-11-18T11:57:44.0576100-03:00:2021-11-18T11:57:44.0571046-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.0587989-03:00:2021-11-18T11:57:44.0583875-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.0598319-03:00:2021-11-18T11:57:44.0591865-03:00:Thread#0:B:And be a day of 0
+2021-11-18T11:57:44.0607305-03:00:2021-11-18T11:57:44.0604419-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(0) (0,0s)
+2021-11-18T11:57:44.0612692-03:00:2021-11-18T11:57:44.0610216-03:00:Thread#0:B:And i iam vip customer 80
+2021-11-18T11:57:44.0618316-03:00:2021-11-18T11:57:44.0616563-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("iam", 80) (0,0s)
+2021-11-18T11:57:44.0622722-03:00:2021-11-18T11:57:44.0620899-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.0627439-03:00:2021-11-18T11:57:44.0625677-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.0631429-03:00:2021-11-18T11:57:44.0629705-03:00:Thread#0:B:Then i will pay 80
+2021-11-18T11:57:44.0652921-03:00:2021-11-18T11:57:44.0649887-03:00:Thread#0:T:error: Expected FinalPrice to be 80.0, but found 76.80000000000001. (0,0s)
+2021-11-18T11:57:44.0666441-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:44.0666601-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-11-18T11:57:44.0666651-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-11-18T11:57:44.0666979-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:44.0667028-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:44.0667094-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:44.0667172-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-11-18T11:57:44.0667377-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-11-18T11:57:44.0667845-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-11-18T11:57:44.0707783-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0147025 seconds
+2021-11-18T11:57:44.0734764-03:00:Thread#0: Test #5/0 is started on thread #0
+2021-11-18T11:57:44.0750320-03:00:2021-11-18T11:57:44.0746288-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.0759845-03:00:2021-11-18T11:57:44.0756524-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.0765958-03:00:2021-11-18T11:57:44.0763105-03:00:Thread#0:B:And be a day of 0
+2021-11-18T11:57:44.0774140-03:00:2021-11-18T11:57:44.0771463-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(0) (0,0s)
+2021-11-18T11:57:44.0780343-03:00:2021-11-18T11:57:44.0777625-03:00:Thread#0:B:And i i'mnot vip customer 100
+2021-11-18T11:57:44.0793464-03:00:2021-11-18T11:57:44.0785545-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("i'mnot", 100) (0,0s)
+2021-11-18T11:57:44.0800415-03:00:2021-11-18T11:57:44.0797089-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.0807423-03:00:2021-11-18T11:57:44.0804947-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.0813125-03:00:2021-11-18T11:57:44.0810822-03:00:Thread#0:B:Then i will pay 100
+2021-11-18T11:57:44.0828315-03:00:2021-11-18T11:57:44.0823175-03:00:Thread#0:T:done: InductionQAStepDefinitions.ThenIWillPay(100) (0,0s)
+2021-11-18T11:57:44.0848933-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:44.0849545-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-11-18T11:57:44.0849610-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-11-18T11:57:44.0850193-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:44.0850296-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:44.0850390-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:44.0850464-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-11-18T11:57:44.0850830-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-11-18T11:57:44.0851129-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-11-18T11:57:44.0903454-03:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0168234 seconds
+2021-11-18T11:57:44.0911727-03:00:Thread#0: Test #6/0 is started on thread #0
+2021-11-18T11:57:44.0924494-03:00:2021-11-18T11:57:44.0920520-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.0933288-03:00:2021-11-18T11:57:44.0930106-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.0939212-03:00:2021-11-18T11:57:44.0936519-03:00:Thread#0:B:And be a day of 1
+2021-11-18T11:57:44.0946779-03:00:2021-11-18T11:57:44.0943893-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(1) (0,0s)
+2021-11-18T11:57:44.0952502-03:00:2021-11-18T11:57:44.0949644-03:00:Thread#0:B:And i iam vip customer 16
+2021-11-18T11:57:44.0958812-03:00:2021-11-18T11:57:44.0956981-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("iam", 16) (0,0s)
+2021-11-18T11:57:44.0964174-03:00:2021-11-18T11:57:44.0961620-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.0970746-03:00:2021-11-18T11:57:44.0968821-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.0976125-03:00:2021-11-18T11:57:44.0973431-03:00:Thread#0:B:Then i will pay 16
+2021-11-18T11:57:44.1000060-03:00:2021-11-18T11:57:44.0997038-03:00:Thread#0:T:error: Expected FinalPrice to be 16.0, but found 15.36. (0,0s)
+2021-11-18T11:57:44.1010110-03:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2021-11-18T11:57:44.1013793-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:44.1013891-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2021-11-18T11:57:44.1013912-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-11-18T11:57:44.1014088-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:44.1014121-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:44.1014138-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:44.1014154-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-11-18T11:57:44.1014265-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-11-18T11:57:44.1014331-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-11-18T11:57:44.1038035-03:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 0,0125569 seconds
+2021-11-18T11:57:44.1059085-03:00:Thread#0: Test #6/1 is started on thread #0
+2021-11-18T11:57:44.1072826-03:00:2021-11-18T11:57:44.1068971-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.1081936-03:00:2021-11-18T11:57:44.1078372-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.1088529-03:00:2021-11-18T11:57:44.1085877-03:00:Thread#0:B:And be a day of 1
+2021-11-18T11:57:44.1095615-03:00:2021-11-18T11:57:44.1092984-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(1) (0,0s)
+2021-11-18T11:57:44.1101277-03:00:2021-11-18T11:57:44.1098300-03:00:Thread#0:B:And i iam vip customer 16
+2021-11-18T11:57:44.1110140-03:00:2021-11-18T11:57:44.1107003-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("iam", 16) (0,0s)
+2021-11-18T11:57:44.1115830-03:00:2021-11-18T11:57:44.1113773-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.1120765-03:00:2021-11-18T11:57:44.1118996-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.1124813-03:00:2021-11-18T11:57:44.1123036-03:00:Thread#0:B:Then i will pay 16
+2021-11-18T11:57:44.1147450-03:00:2021-11-18T11:57:44.1143308-03:00:Thread#0:T:error: Expected FinalPrice to be 16.0, but found 15.36. (0,0s)
+2021-11-18T11:57:44.1177618-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:44.1177856-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2021-11-18T11:57:44.1177913-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-11-18T11:57:44.1178274-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:44.1178315-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:44.1178332-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:44.1178348-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-11-18T11:57:44.1178463-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-11-18T11:57:44.1178537-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-11-18T11:57:44.1201795-03:00:Thread#0: Test #6/1 is finished on thread #0 as Failed within 0,0141918 seconds
+2021-11-18T11:57:44.1222100-03:00:Thread#0: Test #6/2 is started on thread #0
+2021-11-18T11:57:44.1237168-03:00:2021-11-18T11:57:44.1231510-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.1247813-03:00:2021-11-18T11:57:44.1243416-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.1254332-03:00:2021-11-18T11:57:44.1251524-03:00:Thread#0:B:And be a day of 1
+2021-11-18T11:57:44.1261911-03:00:2021-11-18T11:57:44.1259230-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(1) (0,0s)
+2021-11-18T11:57:44.1267047-03:00:2021-11-18T11:57:44.1264571-03:00:Thread#0:B:And i iam vip customer 16
+2021-11-18T11:57:44.1273529-03:00:2021-11-18T11:57:44.1271785-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("iam", 16) (0,0s)
+2021-11-18T11:57:44.1279285-03:00:2021-11-18T11:57:44.1276797-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.1285000-03:00:2021-11-18T11:57:44.1282878-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.1289463-03:00:2021-11-18T11:57:44.1287697-03:00:Thread#0:B:Then i will pay 16
+2021-11-18T11:57:44.1312458-03:00:2021-11-18T11:57:44.1309264-03:00:Thread#0:T:error: Expected FinalPrice to be 16.0, but found 15.36. (0,0s)
+2021-11-18T11:57:44.1324598-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:44.1326675-03:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2021-11-18T11:57:44.1326778-03:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2021-11-18T11:57:44.1327168-03:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:44.1327213-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:44.1327225-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:44.1327246-03:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2021-11-18T11:57:44.1327365-03:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2021-11-18T11:57:44.1327541-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-11-18T11:57:44.1348976-03:00:Thread#0: Test #6/2 is finished on thread #0 as Failed within 0,0126527 seconds
+2021-11-18T11:57:44.1355117-03:00:Thread#0: Test #7/0 is started on thread #0
+2021-11-18T11:57:44.1375936-03:00:2021-11-18T11:57:44.1369975-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.1391152-03:00:2021-11-18T11:57:44.1384045-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.1409815-03:00:2021-11-18T11:57:44.1405693-03:00:Thread#0:B:And be a day of 1
+2021-11-18T11:57:44.1419340-03:00:2021-11-18T11:57:44.1416158-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(1) (0,0s)
+2021-11-18T11:57:44.1424788-03:00:2021-11-18T11:57:44.1422177-03:00:Thread#0:B:And i i'mnot vip customer 20
+2021-11-18T11:57:44.1430876-03:00:2021-11-18T11:57:44.1428832-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("i'mnot", 20) (0,0s)
+2021-11-18T11:57:44.1435294-03:00:2021-11-18T11:57:44.1433373-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.1440188-03:00:2021-11-18T11:57:44.1438365-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.1444449-03:00:2021-11-18T11:57:44.1442663-03:00:Thread#0:B:Then i will pay 20
+2021-11-18T11:57:44.1450032-03:00:2021-11-18T11:57:44.1448172-03:00:Thread#0:T:done: InductionQAStepDefinitions.ThenIWillPay(20) (0,0s)
+2021-11-18T11:57:44.1458707-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-11-18T11:57:44.1458929-03:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2021-11-18T11:57:44.1458990-03:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2021-11-18T11:57:44.1459224-03:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-18T11:57:44.1459261-03:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2021-11-18T11:57:44.1459274-03:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2021-11-18T11:57:44.1459294-03:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2021-11-18T11:57:44.1459405-03:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2021-11-18T11:57:44.1459479-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-11-18T11:57:44.1476118-03:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0,0120689 seconds
+2021-11-18T11:57:44.1481443-03:00:Thread#0: Test #8/0 is started on thread #0
+2021-11-18T11:57:44.1494465-03:00:2021-11-18T11:57:44.1490799-03:00:Thread#0:B:Given i want go to London
+2021-11-18T11:57:44.1506442-03:00:2021-11-18T11:57:44.1501367-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIWantGoToLondon() (0,0s)
+2021-11-18T11:57:44.1512891-03:00:2021-11-18T11:57:44.1510108-03:00:Thread#0:B:And be a day of 2
+2021-11-18T11:57:44.1520138-03:00:2021-11-18T11:57:44.1517654-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenBeADayOf(2) (0,0s)
+2021-11-18T11:57:44.1525643-03:00:2021-11-18T11:57:44.1523521-03:00:Thread#0:B:And i iam vip customer 16
+2021-11-18T11:57:44.1535656-03:00:2021-11-18T11:57:44.1531920-03:00:Thread#0:T:done: InductionQAStepDefinitions.GivenIVipCustomer("iam", 16) (0,0s)
+2021-11-18T11:57:44.1545628-03:00:2021-11-18T11:57:44.1541683-03:00:Thread#0:B:When i do the payment
+2021-11-18T11:57:44.1552702-03:00:2021-11-18T11:57:44.1550079-03:00:Thread#0:T:done: InductionQAStepDefinitions.WhenIDoThePayment() (0,0s)
+2021-11-18T11:57:44.1560120-03:00:2021-11-18T11:57:44.1557029-03:00:Thread#0:B:Then i will pay 16
+2021-11-18T11:57:44.1582232-03:00:2021-11-18T11:57:44.1579243-03:00:Thread#0:T:error: Expected FinalPrice to be 16.0, but found 15.36. (0,0s)
+2021-11-18T11:57:44.1591490-03:00:Cancelling because configured number of failures reached
+2021-11-18T11:57:44.1643708-03:00:Thread#0: Test #8/0 is finished on thread #0 as Failed within 0,0161809 seconds
+2021-11-18T11:57:44.1755981-03:00:2021-11-18T11:57:44.1752799-03:00:Got Deinitialize Signal
+2021-11-18T11:57:44.1798648-03:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-11-18T11:57:44.1807614-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-11-18T11:57:44.1833751-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-11-18T11:57:44.1862796-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-18T11:57:44.1863203-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-11-18T11:57:44.1863363-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-11-18T11:57:44.1863482-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:44.1863547-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-11-18T11:57:44.1865260-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-11-18T11:57:44.1866500-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1'
+2021-11-18T11:57:44.1866783-03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-11-18T11:57:44.1868512-03:00:Tfm: netcoreapp3.1
+2021-11-18T11:57:44.1868631-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-11-18T11:57:44.1868676-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-11-18T11:57:44.1869493-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-11-18T11:57:44.1870142-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Danilo\source\repos\InductionQA\InductionQA.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-11-18T11:57:44.1968730-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20'
+2021-11-18T11:57:44.1968894-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20\System.Diagnostics.Process.resources.dll'
+2021-11-18T11:57:44.1969658-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20\System.Diagnostics.Process.resources.exe'
+2021-11-18T11:57:44.1970200-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.20'
+2021-11-18T11:57:44.1972839-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20'
+2021-11-18T11:57:44.1972917-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20\System.Diagnostics.Process.resources.dll'
+2021-11-18T11:57:44.1973484-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20\System.Diagnostics.Process.resources.exe'
+2021-11-18T11:57:44.1974010-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.20'
+2021-11-18T11:57:44.1976025-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20'
+2021-11-18T11:57:44.1976099-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20\System.Diagnostics.Process.resources.dll'
+2021-11-18T11:57:44.1976715-03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20\System.Diagnostics.Process.resources.exe'
+2021-11-18T11:57:44.1977208-03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.20'
+2021-11-18T11:57:44.1986951-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-18T11:57:44.2108325-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2108686-03:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2021-11-18T11:57:44.2108740-03:00:Thread#-1:Scheduler: considering testitem #9 for thread -1
+2021-11-18T11:57:44.2108764-03:00:Thread#-1:Scheduler: using testitem #9 for thread -1
+2021-11-18T11:57:44.2108813-03:00:Thread#-1:Scheduler: Test #9 is scheduled for thread
+2021-11-18T11:57:44.2114738-03:00:Thread#-1: Test #9/0 is started on thread #-1
+2021-11-18T11:57:44.2116133-03:00:Thread#-1: Test #9/0 is finished on thread #-1 as Skipped within 6,69E-05 seconds
+2021-11-18T11:57:44.2120957-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2121064-03:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2021-11-18T11:57:44.2121097-03:00:Thread#-1:Scheduler: considering testitem #10 for thread -1
+2021-11-18T11:57:44.2121122-03:00:Thread#-1:Scheduler: using testitem #10 for thread -1
+2021-11-18T11:57:44.2121146-03:00:Thread#-1:Scheduler: Test #10 is scheduled for thread
+2021-11-18T11:57:44.2121384-03:00:Thread#-1: Test #10/0 is started on thread #-1
+2021-11-18T11:57:44.2121536-03:00:Thread#-1: Test #10/0 is finished on thread #-1 as Skipped within 3,3E-06 seconds
+2021-11-18T11:57:44.2122542-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2122620-03:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2021-11-18T11:57:44.2122645-03:00:Thread#-1:Scheduler: considering testitem #11 for thread -1
+2021-11-18T11:57:44.2122686-03:00:Thread#-1:Scheduler: using testitem #11 for thread -1
+2021-11-18T11:57:44.2122710-03:00:Thread#-1:Scheduler: Test #11 is scheduled for thread
+2021-11-18T11:57:44.2122920-03:00:Thread#-1: Test #11/0 is started on thread #-1
+2021-11-18T11:57:44.2123039-03:00:Thread#-1: Test #11/0 is finished on thread #-1 as Skipped within 2,5E-06 seconds
+2021-11-18T11:57:44.2123999-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2124110-03:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2021-11-18T11:57:44.2124172-03:00:Thread#-1:Scheduler: considering testitem #12 for thread -1
+2021-11-18T11:57:44.2124229-03:00:Thread#-1:Scheduler: using testitem #12 for thread -1
+2021-11-18T11:57:44.2124299-03:00:Thread#-1:Scheduler: Test #12 is scheduled for thread
+2021-11-18T11:57:44.2124578-03:00:Thread#-1: Test #12/0 is started on thread #-1
+2021-11-18T11:57:44.2124738-03:00:Thread#-1: Test #12/0 is finished on thread #-1 as Skipped within 3,7E-06 seconds
+2021-11-18T11:57:44.2125071-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2125137-03:00:Thread#:Scheduler: testitem #13 from normal test queue 
+2021-11-18T11:57:44.2125162-03:00:Thread#-1:Scheduler: considering testitem #13 for thread -1
+2021-11-18T11:57:44.2125235-03:00:Thread#-1:Scheduler: using testitem #13 for thread -1
+2021-11-18T11:57:44.2125703-03:00:Thread#-1:Scheduler: Test #13 is scheduled for thread
+2021-11-18T11:57:44.2125937-03:00:Thread#-1: Test #13/0 is started on thread #-1
+2021-11-18T11:57:44.2127292-03:00:Thread#-1: Test #13/0 is finished on thread #-1 as Skipped within 7,4E-06 seconds
+2021-11-18T11:57:44.2129017-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2129103-03:00:Thread#:Scheduler: testitem #14 from normal test queue 
+2021-11-18T11:57:44.2129140-03:00:Thread#-1:Scheduler: considering testitem #14 for thread -1
+2021-11-18T11:57:44.2129218-03:00:Thread#-1:Scheduler: using testitem #14 for thread -1
+2021-11-18T11:57:44.2129271-03:00:Thread#-1:Scheduler: Test #14 is scheduled for thread
+2021-11-18T11:57:44.2129476-03:00:Thread#-1: Test #14/0 is started on thread #-1
+2021-11-18T11:57:44.2129665-03:00:Thread#-1: Test #14/0 is finished on thread #-1 as Skipped within 4,1E-06 seconds
+2021-11-18T11:57:44.2130273-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2130339-03:00:Thread#:Scheduler: testitem #15 from normal test queue 
+2021-11-18T11:57:44.2130367-03:00:Thread#-1:Scheduler: considering testitem #15 for thread -1
+2021-11-18T11:57:44.2130400-03:00:Thread#-1:Scheduler: using testitem #15 for thread -1
+2021-11-18T11:57:44.2130441-03:00:Thread#-1:Scheduler: Test #15 is scheduled for thread
+2021-11-18T11:57:44.2130679-03:00:Thread#-1: Test #15/0 is started on thread #-1
+2021-11-18T11:57:44.2130823-03:00:Thread#-1: Test #15/0 is finished on thread #-1 as Skipped within 2,9E-06 seconds
+2021-11-18T11:57:44.2131500-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2131624-03:00:Thread#:Scheduler: testitem #16 from normal test queue 
+2021-11-18T11:57:44.2131673-03:00:Thread#-1:Scheduler: considering testitem #16 for thread -1
+2021-11-18T11:57:44.2131730-03:00:Thread#-1:Scheduler: using testitem #16 for thread -1
+2021-11-18T11:57:44.2131800-03:00:Thread#-1:Scheduler: Test #16 is scheduled for thread
+2021-11-18T11:57:44.2132050-03:00:Thread#-1: Test #16/0 is started on thread #-1
+2021-11-18T11:57:44.2132215-03:00:Thread#-1: Test #16/0 is finished on thread #-1 as Skipped within 3,7E-06 seconds
+2021-11-18T11:57:44.2132572-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2132679-03:00:Thread#:Scheduler: testitem #17 from normal test queue 
+2021-11-18T11:57:44.2132744-03:00:Thread#-1:Scheduler: considering testitem #17 for thread -1
+2021-11-18T11:57:44.2132802-03:00:Thread#-1:Scheduler: using testitem #17 for thread -1
+2021-11-18T11:57:44.2132872-03:00:Thread#-1:Scheduler: Test #17 is scheduled for thread
+2021-11-18T11:57:44.2133126-03:00:Thread#-1: Test #17/0 is started on thread #-1
+2021-11-18T11:57:44.2133286-03:00:Thread#-1: Test #17/0 is finished on thread #-1 as Skipped within 3,7E-06 seconds
+2021-11-18T11:57:44.2133590-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-11-18T11:57:44.2133664-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-11-18T11:57:44.2133693-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-11-18T11:57:44.2421469-03:00;Thread#12;Info;test run finished
+2021-11-18T11:57:44.2422701-03:00;Thread#12;Info;publishing test results
+2021-11-18T11:57:44.2424979-03:00;Thread#12;Info;Not publishing results.
+2021-11-18T11:57:44.2425780-03:00;Thread#12;Info;test results published
+2021-11-18T11:57:44.2426519-03:00;Thread#12;Info;generating reports
+2021-11-18T11:57:44.3970338-03:00;Thread#12;Info;Starting external report generation process
+2021-11-18T11:57:46.8965789-03:00;Thread#12;Info;Successfully generated reports.
+2021-11-18T11:57:46.8997709-03:00;Thread#12;Info;Successfully generated reports
+2021-11-18T11:57:46.9143146-03:00:Total: 14 (test executions: 18)
+2021-11-18T11:57:46.9182398-03:00:Succeeded: 2
+2021-11-18T11:57:46.9188552-03:00:Ignored: 0
+2021-11-18T11:57:46.9192539-03:00:Pending: 0
+2021-11-18T11:57:46.9192621-03:00:Skipped: 9
+2021-11-18T11:57:46.9196160-03:00:Failed: 3
+2021-11-18T11:57:46.9315559-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-11-18T11:57:46.9317501-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Danilo\source\repos\InductionQA\TestResults\Unnamed project__2021-11-18T115740.html'
+========== End of log file ==========
